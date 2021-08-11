@@ -2,4 +2,4 @@
 
 Hi!
 
-This is the tutorial branch I am using to learn more boaut GitHub and how it works.
+This is the tutorial branch I am using to learn more about GitHub and how it works.
